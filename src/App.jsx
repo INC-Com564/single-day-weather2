@@ -1,5 +1,5 @@
 import './App.css'
-import Counter from './Weather'
+import Weather from './Weather'
 
 function App() {
   
@@ -8,7 +8,7 @@ function App() {
         <h1>Weather App</h1>
       </header>
       <main>
-        <Counter />
+        <Weather />
       </main>
       <footer></footer>
     </>
